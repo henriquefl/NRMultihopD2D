@@ -11,8 +11,4 @@ The `omnetpp.ini` for the NR D2D multihop scenario is based on the LTE version w
 The four config variants (MultihopD2D, MultihopD2D-Trickle, MultihopD2D-rangeCheck, MultihopD2D-rangeCheckTrickle) mirror the LTE scenario, with NR-specific parameters like `nrChannelModel`, `nrPhy.d2dTxPower`, and `nrPhy.enableMulticastD2DRangeCheck` properly set.
 
 For class diagram, please check the following file:
-<details>
-  <summary>📸 Click here to expand and preview the document</summary>
-  
-  ![Page 1](images/lte_to_nr.png)
-</details>
+![Page 1](images/lte_to_nr.png)
